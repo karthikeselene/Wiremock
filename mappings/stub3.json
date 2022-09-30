@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/send-xml-json"
+    },
+    "response" :{
+        "status": 200,
+        "bodyFileName": "json-mock-response.json",
+        "headers": {
+            "content-type": "application/json"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<InsuranceCompanies>
+    <Time>Dec 2021</Time>
+    <Top_Ins_Companies>
+        <No>1</No>
+        <Name>Berkshire Hathaway ( BRK.A)</Name>
+        <Market_Capitalization>$621 billion</Market_Capitalization>
+    </Top_Ins_Companies>
+    <Top_Ins_Companies>
+        <No>2</No>
+        <Name>China Life Insurance (LFC)</Name>
+        <Market_Capitalization>$107 billion</Market_Capitalization>
+    </Top_Ins_Companies>
+    <Top_Ins_Companies>
+        <No>3</No>
+        <Name>Allianz (AZSEY) </Name>
+        <Market_Capitalization>$91 billion</Market_Capitalization>
+    </Top_Ins_Companies>
+</InsuranceCompanies>
